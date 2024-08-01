@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [OmniSwap](README.md)
 
 ## Getting Started
 
